@@ -9,12 +9,18 @@ TERMOHIDRO permitirá qu o funcionário monitore a temperatura das piscinas em t
 ##### Tela Principal do Projeto
 ![Index.html1](/imgs/Index-Piscinas.png "Piscinas")
 
+Na tela principal do site, o funcionário poderia ver em tempo tempo real a temperatura das piscinas e selecionar a piscina que desejaria ocupar. Ao clicar no botão 'OCUPAR' o símbolo verde passaria a ser vermelho.
+
 ##### Tela de Conexão
 ![Index.html2](/imgs/Conexao.png "Conexao")
+
+Na tela de conexão do site, o funcionário poderia selecionar a porta e a velocidade de conexão com a NodeMCU e seria capaz de ver o status "conectado", caso a conexão com a NodeMCU tenha sido efetuada, ou "desconectado", caso não. Dessa forma, poderia ver a temperatura na tela principal. 
 
 ### Em QTCreator
 ##### Principal
 ![MainWindow1](/imgs/MainWindow-Piscina.png "Piscinas")
+
+Na tela principal 
 
 ##### Conexão
 ![MainWindow2](/imgs/MainWindow-Conexao.png "Conexao")
