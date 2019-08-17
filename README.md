@@ -32,3 +32,9 @@ Em teoria o sensor de tempera deveria calcular e enviar por um arquivo .json par
 
 ### Circuito do Sensor
 ![Sensor](/imgs/circuito.png "Sensor/Circuito")
+
+Para montar o circuito foi necessário:
+Uma placa NodeMCU Esp8266
+Um sensor de temperatura à prova d'água DS18B20
+Um resisto de 10k ohm
+
