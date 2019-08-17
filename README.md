@@ -6,14 +6,10 @@ TERMOHIDRO é o projeto de uma front-end de uma aplicação que monitora a tempe
 TERMOHIDRO permitirá qu o funcionário monitore a temperatura das piscinas em tempo real com o auxílio do site criado com o HerokuAPP que é a forma de conexão online do funcionário, e do QT Creator que é a forma de conexão offline do funcionário.
 # Manual do Usuário
 ##### Tela Principal do Projeto
-![Index.html1](/imgs/Index-Piscinas.png "Piscinas")
+![Index.html1](/imgs/termohidro.png "Piscinas")
 
 Na tela principal do site, o funcionário poderá ver em tempo tempo real a temperatura das piscinas e selecionar a piscina que deseja ocupar. Ao clicar no botão 'OCUPAR' o símbolo cinza passará a ser vermelho.
-
-##### Tela de Conexão
-![Index.html2](/imgs/Conexao.png "Conexao")
-
-Na tela de conexão do site, o funcionário deve selecionar a porta a velocidade de conexão com a placa e será capaz de ver o status da conexão com a NodeMCU. "Conectado", caso a comunicação com a NodeMCU tenha sido efetuada, ou "desconectado", caso não. Dessa forma, poderá ver a temperatura na tela principal. 
+Na tela principal, também se encontra o local onde funcionário deve selecionar a porta a velocidade de conexão com a placa e será capaz de ver o status da conexão com a NodeMCU. "Conectado", caso a comunicação com a NodeMCU tenha sido efetuada, ou "desconectado", caso não. Dessa forma, poderá ver a temperatura da piscina. 
 
 ### Em QTCreator
 ##### Principal
