@@ -1,7 +1,7 @@
 # PROJETO FINAL DA DISCIPLINA DE TÉCNICAS DE PROGRAMAÇÃO
 ## ALUNOS: LOAN MATTEUS (20182610039) E LUCILA MARIA(20182610035)
 
-TERMOHIDRO é o projeto de uma front-end de uma aplicação que monitora a temperatura de piscinas de um Centro de Terapia e Reabilitação por meio da hidroterapia em piscinas aquecidas. Foi feito utilizando o QT Creator, Heroku e NodeMCU Esp8266 para a disciplina de Técnicas de Programaão.
+TERMOHIDRO é o projeto de uma front-end de uma aplicação que monitora a temperatura de piscinas de um Centro de Terapia e Reabilitação por meio da hidroterapia em piscinas aquecidas. Foi feito utilizando o QT Creator, Heroku e NodeMCU Esp8266 para a disciplina de Técnicas de Programação.
 
 TERMOHIDRO permitirá qu o funcionário monitore a temperatura das piscinas em tempo real com o auxílio do site criado com o HerokuAPP que é a forma de conexão online do funcionário, e do QT Creator que é a forma de conexão offline do funcionário.
 # Manual do Usuário
@@ -39,5 +39,5 @@ Uma placa NodeMCU Esp8266
 
 Um sensor de temperatura à prova d'água DS18B20
 
-Um resisto de 10k ohm
+Um resistor de 10k ohm
 
