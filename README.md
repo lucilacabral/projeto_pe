@@ -4,7 +4,7 @@
 TERMOHIDRO é o projeto de uma front-end de uma aplicação que monitora a temperatura de piscinas de um Centro de Terapia e Reabilitação por meio da hidroterapia em piscinas aquecidas. Foi feito utilizando o QT Creator, Heroku e NodeMCU Esp8266 para a disciplina de Técnicas de Programaão.
 
 TERMOHIDRO permitirá qu o funcionário monitore a temperatura das piscinas em tempo real com o auxílio do site criado com o HerokuAPP que é a forma de conexão online do funcionário, e do QT Creator que é a forma de conexão offline do funcionário.
-
+# Manual do Usuário
 ##### Tela Principal do Projeto
 ![Index.html1](/imgs/Index-Piscinas.png "Piscinas")
 
@@ -24,7 +24,7 @@ Na tela principal da aplicação no QT Creator o funcionário poderá selecionar
 ##### Conexão
 ![MainWindow2](/imgs/MainWindow-Conexao.png "Conexao")
 
-Na tela de conexão do QT Creator, o funcionário poderá selecionar a porta e a velocidade de conexão com a NodeMCU.
+Na tela de conexão do QT Creator, o funcionário poderá selecionar a porta e a velocidade de conexão com a NodeMCU, para que seja estabelecida a comunicação da aplicação com a placa. 
 
 ## Circuito
 
